@@ -75,12 +75,3 @@ class CounterClass {
 const counter5 = new CounterClass(0);
 
 
-
-
-
-
-
-counter4.setValue(4)
-console.log(counter4.getValue())
-
-
